@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    width: 1200px;
+    display: flex;
+    flex-flow: row wrap;
+    margin: 0 auto;
+}
+
+header {
+    width: 1200px;
+    height: 185px;
+    background-color: lawngreen;
+}
+
+nav {
+    width: 1200px;
+    height: 70px;
+    background-color: lightseagreen;
+}
+
+aside{
+    width: 150px;
+    height: 1000px;
+    background-color: red;
+}
+
+footer{
+    width: 1200px;
+    height: 100px;
+    background-color: salmon;
+
+}
+
+
+
+
+    #container1 {
+    width: 900px;
+    height: 1000px;
+    display: flex;
+    flex-flow: row wrap;
+    }
+
+    #container1 >article {
+        width: 450px;
+        height: 500px;
+    }
+    #um {
+        background-color: salmon;
+       
+    }
+    
+    #dois {
+        background-color: dimgray;
+       
+    }
+    
+    #tres {
+        background-color: rgb(0, 110, 255);
+        
+    }
+    
+    #quatro {
+        background-color: saddlebrown;
+       
+    }
+    
+    #container2{
+        width: 1200px;
+        height: 200px;
+        display: flex;
+        flex-flow: row wrap;
+    }
+
+    #container2 >article {
+        width: 600px;
+        height: 200;
+    }
+
+    #cinco {
+        background-color: sienna;
+    }
+
+    #seis {
+        background-color: slategrey;
+    }
+
+    section{
+    width: 150px;
+    height: 1000px;
+    background-color: red;
+    }

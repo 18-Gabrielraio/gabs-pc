@@ -1,0 +1,12 @@
+#deslogado1{
+    display: none !important;
+}
+#deslogado2{
+    display: none !important;
+}
+#logado1{
+    display: inline-block !important;
+}
+#logado2{
+    display: inline-block !important;
+}
